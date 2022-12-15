@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html{
+    background-image: url(bg11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  h1, h2, h3, h4, h5 {
+    margin: auto;
+    font-family: 'Inter', sans-seri;
+    color: aliceblue;
+  }
+  
+  h1{
+    margin-top: 220px;
+    font-size: 50px;
+    font-weight: 300;
+  }
+  
+  
+  body{
+    margin: auto;
+  }
+  
+  .bg-yellow {
+    background: #ba97e7;
+}
+.bg-green {
+    background: #684d8b;
+    
+}
+.bg-red {
+    background: #351263;
+    
+}
+.card {
+    padding: 15px 20px;
+    margin-bottom: 22px;
+    border-radius: 25px;
+
+}
+
+.text{
+    padding: 15px 20px;
+}
+
